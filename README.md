@@ -2,6 +2,6 @@
 FDACLIP
 
 #Code based on  build https://github.com/bladewaltz1/PromptSwitch
-<img width="2085" height="947" alt="image" src="https://github.com/user-attachments/assets/44b0acbb-a755-4c17-98c4-f76d7adf5f7c" />
+![8a04d6bebf928392a7cd6cfa0706e83d](https://github.com/user-attachments/assets/cedabff6-ecf3-41dd-8f6d-4c474adfc025)
 
 TODO: After submitting the paper, I will organize the code and environment.
